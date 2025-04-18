@@ -10,6 +10,7 @@ This is a custom WordPress website developed for Fiqon. The project focused on r
 - Elementor
 - Advanced Custom Fields (ACF)
 - Custom Post Types
+- React
 
 ## Live Preview
 [https://fiqon.com.br](https://fiqon.com.br)
