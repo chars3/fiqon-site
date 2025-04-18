@@ -12,7 +12,7 @@ This is a custom WordPress website developed for Fiqon. The project focused on r
 - Custom Post Types
 
 ## Live Preview
-[https://www.example.com]([(https://fiqon.com.br/)])
+[(https://fiqon.com.br/)]
 
 ## My Role
 - Full website development
